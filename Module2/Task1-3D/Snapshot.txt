@@ -1,0 +1,298 @@
+Producer Thread 1: 1552571400 90 294
+Consumer Thread 0: 1552571400 83 263
+Consumer Thread 1: 1552571400 84 265
+Producer Thread 0: 1552571400 91 128
+Consumer Thread 1: 1552571400 85 64
+Producer Thread 1: 1552571400 92 112
+Consumer Thread 0: 1552571400 86 38
+Producer Thread 0: 1552571400 93 110
+Consumer Thread 1: 1552571400 87 246
+Producer Thread 1: 1552571400 94 98
+Consumer Thread 0: 1552571400 88 152
+Producer Thread 0: 1552571400 95 233
+Consumer Thread 1: 1552571400 89 23
+Producer Thread 1: 1552571400 96 249
+Producer Thread 0: 1552571400 97 201
+Consumer Thread 0: 1552571400 90 294
+Consumer Thread 1: 1552571400 91 128
+Producer Thread 1: 1552571400 98 56
+Consumer Thread 0: 1552571400 92 112
+Producer Thread 0: 1552571400 99 49
+Producer Thread 1: 1552571400 100 18
+Consumer Thread 1: 1552571400 93 110
+Producer Thread 0: 1552571700 1 234
+Consumer Thread 0: 1552571400 94 98
+Producer Thread 1: 1552571700 2 129
+Consumer Thread 1: 1552571400 95 233
+Producer Thread 0: 1552571700 3 239
+Consumer Thread 0: 1552571400 96 249
+Consumer Thread 1: 1552571400 97 201
+Producer Thread 1: 1552571700 4 149
+Producer Thread 0: 1552571700 5 15
+Consumer Thread 0: 1552571400 98 56
+Producer Thread 1: 1552571700 6 58
+Consumer Thread 1: 1552571400 99 49
+Producer Thread 0: 1552571700 7 8
+Consumer Thread 0: 1552571400 100 18
+Producer Thread 1: 1552571700 8 71
+Consumer Thread 1: 1552571700 1 234
+Consumer Thread 0: 1552571700 2 129
+Producer Thread 0: 1552571700 9 262
+Consumer Thread 1: 1552571700 3 239
+Producer Thread 1: 1552571700 10 213
+Producer Thread 0: 1552571700 11 54
+Consumer Thread 0: 1552571700 4 149
+Producer Thread 1: 1552571700 12 296
+Consumer Thread 1: 1552571700 5 15
+Consumer Thread 0: 1552571700 6 58
+Producer Thread 0: 1552571700 13 110
+Producer Thread 1: 1552571700 14 135
+Consumer Thread 1: 1552571700 7 8
+Consumer Thread 0: 1552571700 8 71
+Producer Thread 0: 1552571700 15 209
+Consumer Thread 1: 1552571700 9 262
+Producer Thread 1: 1552571700 16 290
+Consumer Thread 0: 1552571700 10 213
+Producer Thread 0: 1552571700 17 91
+Consumer Thread 1: 1552571700 11 54
+Producer Thread 1: 1552571700 18 187
+Consumer Thread 0: 1552571700 12 296
+Producer Thread 0: 1552571700 19 86
+Consumer Thread 1: 1552571700 13 110
+Producer Thread 1: 1552571700 20 93
+Producer Thread 0: 1552571700 21 269
+Consumer Thread 0: 1552571700 14 135
+Consumer Thread 1: 1552571700 15 209
+Producer Thread 1: 1552571700 22 179
+Consumer Thread 0: 1552571700 16 290
+Producer Thread 0: 1552571700 23 150
+Consumer Thread 1: 1552571700 17 91
+Producer Thread 1: 1552571700 24 98
+Consumer Thread 0: 1552571700 18 187
+Producer Thread 0: 1552571700 25 133
+Producer Thread 1: 1552571700 26 70
+Consumer Thread 1: 1552571700 19 86
+Consumer Thread 0: 1552571700 20 93
+Producer Thread 0: 1552571700 27 165
+Consumer Thread 1: 1552571700 21 269
+Producer Thread 1: 1552571700 28 16
+Producer Thread 0: 1552571700 29 109
+Consumer Thread 0: 1552571700 22 179
+Producer Thread 1: 1552571700 30 258
+Consumer Thread 1: 1552571700 23 150
+Producer Thread 0: 1552571700 31 127
+Consumer Thread 0: 1552571700 24 98
+Consumer Thread 1: 1552571700 25 133
+Producer Thread 1: 1552571700 32 268
+Producer Thread 0: 1552571700 33 125
+Consumer Thread 0: 1552571700 26 70
+Producer Thread 1: 1552571700 34 242
+Consumer Thread 1: 1552571700 27 165
+Consumer Thread 0: 1552571700 28 16
+Producer Thread 0: 1552571700 35 31
+Producer Thread 1: 1552571700 36 6
+Consumer Thread 1: 1552571700 29 109
+Consumer Thread 0: 1552571700 30 258
+Producer Thread 0: 1552571700 37 189
+Consumer Thread 1: 1552571700 31 127
+Producer Thread 1: 1552571700 38 262
+Producer Thread 0: 1552571700 39 262
+Consumer Thread 0: 1552571700 32 268
+Producer Thread 1: 1552571700 40 13
+Consumer Thread 1: 1552571700 33 125
+Producer Thread 0: 1552571700 41 128
+Consumer Thread 0: 1552571700 34 242
+Producer Thread 1: 1552571700 42 29
+Consumer Thread 1: 1552571700 35 31
+Producer Thread 0: 1552571700 43 155
+Consumer Thread 0: 1552571700 36 6
+Consumer Thread 1: 1552571700 37 189
+Producer Thread 1: 1552571700 44 47
+Consumer Thread 0: 1552571700 38 262
+Producer Thread 0: 1552571700 45 126
+Consumer Thread 1: 1552571700 39 262
+Producer Thread 1: 1552571700 46 256
+Producer Thread 0: 1552571700 47 97
+Consumer Thread 0: 1552571700 40 13
+Producer Thread 1: 1552571700 48 93
+Consumer Thread 1: 1552571700 41 128
+Consumer Thread 0: 1552571700 42 29
+Producer Thread 0: 1552571700 49 135
+Producer Thread 1: 1552571700 50 242
+Consumer Thread 1: 1552571700 43 155
+Consumer Thread 0: 1552571700 44 47
+Producer Thread 0: 1552571700 51 79
+Consumer Thread 1: 1552571700 45 126
+Producer Thread 1: 1552571700 52 149
+Consumer Thread 0: 1552571700 46 256
+Producer Thread 0: 1552571700 53 28
+Producer Thread 1: 1552571700 54 176
+Consumer Thread 1: 1552571700 47 97
+Consumer Thread 0: 1552571700 48 93
+Producer Thread 0: 1552571700 55 11
+Consumer Thread 1: 1552571700 49 135
+Producer Thread 1: 1552571700 56 204
+Consumer Thread 0: 1552571700 50 242
+Producer Thread 0: 1552571700 57 221
+Consumer Thread 1: 1552571700 51 79
+Producer Thread 1: 1552571700 58 45
+Consumer Thread 0: 1552571700 52 149
+Producer Thread 0: 1552571700 59 44
+Consumer Thread 1: 1552571700 53 28
+Producer Thread 1: 1552571700 60 87
+Consumer Thread 0: 1552571700 54 176
+Producer Thread 1: 1552571700 61 103
+Consumer Thread 1: 1552571700 55 11
+Producer Thread 0: 1552571700 62 268
+Consumer Thread 0: 1552571700 56 204
+Consumer Thread 1: 1552571700 57 221
+Producer Thread 1: 1552571700 64 204
+Producer Thread 0: 1552571700 63 110
+Consumer Thread 0: 1552571700 58 45
+Consumer Thread 1: 1552571700 59 44
+Producer Thread 0: 1552571700 65 18
+Producer Thread 1: 1552571700 66 97
+Consumer Thread 0: 1552571700 60 87
+Producer Thread 0: 1552571700 67 112
+Consumer Thread 1: 1552571700 61 103
+Producer Thread 1: 1552571700 68 270
+Consumer Thread 0: 1552571700 62 268
+Consumer Thread 1: 1552571700 63 110
+Producer Thread 0: 1552571700 69 115
+Consumer Thread 0: 1552571700 64 204
+Producer Thread 1: 1552571700 70 257
+Producer Thread 0: 1552571700 71 4
+Consumer Thread 1: 1552571700 65 18
+Producer Thread 1: 1552571700 72 58
+Consumer Thread 0: 1552571700 66 97
+Producer Thread 0: 1552571700 73 52
+Consumer Thread 1: 1552571700 67 112
+Producer Thread 1: 1552571700 74 138
+Consumer Thread 0: 1552571700 68 270
+Consumer Thread 1: 1552571700 69 115
+Producer Thread 0: 1552571700 75 87
+Producer Thread 1: 1552571700 76 143
+Consumer Thread 0: 1552571700 70 257
+Producer Thread 0: 1552571700 77 120
+Consumer Thread 1: 1552571700 71 4
+Producer Thread 1: 1552571700 78 270
+Consumer Thread 0: 1552571700 72 58
+Producer Thread 0: 1552571700 79 221
+Consumer Thread 1: 1552571700 73 52
+Producer Thread 1: 1552571700 80 21
+Consumer Thread 0: 1552571700 74 138
+Producer Thread 0: 1552571700 81 73
+Consumer Thread 1: 1552571700 75 87
+Producer Thread 1: 1552571700 82 123
+Consumer Thread 0: 1552571700 76 143
+Producer Thread 0: 1552571700 83 95
+Consumer Thread 1: 1552571700 77 120
+Producer Thread 1: 1552571700 84 248
+Consumer Thread 0: 1552571700 78 270
+Producer Thread 0: 1552571700 85 83
+Consumer Thread 1: 1552571700 79 221
+Producer Thread 1: 1552571700 86 163
+Consumer Thread 0: 1552571700 80 21
+Consumer Thread 1: 1552571700 81 73
+Producer Thread 0: 1552571700 87 66
+Producer Thread 1: 1552571700 88 54
+Consumer Thread 0: 1552571700 82 123
+Producer Thread 0: 1552571700 89 191
+Consumer Thread 1: 1552571700 83 95
+Producer Thread 1: 1552571700 90 273
+Consumer Thread 0: 1552571700 84 248
+Producer Thread 0: 1552571700 91 295
+Consumer Thread 1: 1552571700 85 83
+Producer Thread 1: 1552571700 92 278
+Consumer Thread 0: 1552571700 86 163
+Producer Thread 0: 1552571700 93 63
+Consumer Thread 1: 1552571700 87 66
+Producer Thread 1: 1552571700 94 104
+Consumer Thread 0: 1552571700 88 54
+Consumer Thread 1: 1552571700 89 191
+Producer Thread 0: 1552571700 95 42
+Consumer Thread 0: 1552571700 90 273
+Producer Thread 1: 1552571700 96 154
+Producer Thread 0: 1552571700 97 224
+Consumer Thread 1: 1552571700 91 295
+Producer Thread 1: 1552571700 98 90
+Consumer Thread 0: 1552571700 92 278
+Producer Thread 0: 1552571700 99 27
+Consumer Thread 1: 1552571700 93 63
+Producer Thread 1: 1552571700 100 137
+Consumer Thread 0: 1552571700 94 104
+Consumer Thread 1: 1552571700 95 42
+Consumer Thread 0: 1552571700 96 154
+Consumer Thread 1: 1552571700 97 224
+Consumer Thread 0: 1552571700 98 90
+Consumer Thread 1: 1552571700 99 27
+Consumer Thread 0: 1552571700 100 137
+
+
+6AM Report:
+Average cars: 1781
+TRAFFIC LIGHT 51: 2561 cars(43.8% increase on Average cars this hour)
+TRAFFIC LIGHT 7: 2517 cars(41.3% increase on Average cars this hour)
+TRAFFIC LIGHT 3: 2507 cars(40.8% increase on Average cars this hour)
+TRAFFIC LIGHT 58: 2461 cars(38.2% increase on Average cars this hour)
+TRAFFIC LIGHT 37: 2387 cars(34% increase on Average cars this hour)
+
+7AM Report:
+Average cars: 1768
+TRAFFIC LIGHT 29: 2522 cars(42.6% increase on Average cars this hour)
+TRAFFIC LIGHT 83: 2459 cars(39.1% increase on Average cars this hour)
+TRAFFIC LIGHT 97: 2372 cars(34.2% increase on Average cars this hour)
+TRAFFIC LIGHT 28: 2366 cars(33.8% increase on Average cars this hour)
+TRAFFIC LIGHT 69: 2328 cars(31.7% increase on Average cars this hour)
+
+8AM Report:
+Average cars: 1850
+TRAFFIC LIGHT 84: 2564 cars(38.6% increase on Average cars this hour)
+TRAFFIC LIGHT 60: 2429 cars(31.3% increase on Average cars this hour)
+TRAFFIC LIGHT 51: 2407 cars(30.1% increase on Average cars this hour)
+TRAFFIC LIGHT 90: 2373 cars(28.3% increase on Average cars this hour)
+TRAFFIC LIGHT 49: 2332 cars(26.1% increase on Average cars this hour)
+
+9AM Report:
+Average cars: 1799
+TRAFFIC LIGHT 20: 2571 cars(42.9% increase on Average cars this hour)
+TRAFFIC LIGHT 36: 2556 cars(42.1% increase on Average cars this hour)
+TRAFFIC LIGHT 53: 2477 cars(37.7% increase on Average cars this hour)
+TRAFFIC LIGHT 63: 2414 cars(34.2% increase on Average cars this hour)
+TRAFFIC LIGHT 93: 2365 cars(31.5% increase on Average cars this hour)
+
+10AM Report:
+Average cars: 1808
+TRAFFIC LIGHT 99: 2543 cars(40.7% increase on Average cars this hour)
+TRAFFIC LIGHT 60: 2455 cars(35.8% increase on Average cars this hour)
+TRAFFIC LIGHT 62: 2370 cars(31.1% increase on Average cars this hour)
+TRAFFIC LIGHT 88: 2354 cars(30.2% increase on Average cars this hour)
+TRAFFIC LIGHT 67: 2323 cars(28.5% increase on Average cars this hour)
+
+11AM Report:
+Average cars: 1825
+TRAFFIC LIGHT 13: 2488 cars(36.3% increase on Average cars this hour)
+TRAFFIC LIGHT 62: 2451 cars(34.3% increase on Average cars this hour)
+TRAFFIC LIGHT 76: 2428 cars(33% increase on Average cars this hour)
+TRAFFIC LIGHT 74: 2368 cars(29.8% increase on Average cars this hour)
+TRAFFIC LIGHT 82: 2364 cars(29.5% increase on Average cars this hour)
+
+12PM Report:
+Average cars: 1757
+TRAFFIC LIGHT 53: 2484 cars(41.4% increase on Average cars this hour)
+TRAFFIC LIGHT 8: 2409 cars(37.1% increase on Average cars this hour)
+TRAFFIC LIGHT 1: 2342 cars(33.3% increase on Average cars this hour)
+TRAFFIC LIGHT 22: 2335 cars(32.9% increase on Average cars this hour)
+TRAFFIC LIGHT 78: 2300 cars(30.9% increase on Average cars this hour)
+
+1PM Report:
+Average cars: 1764
+TRAFFIC LIGHT 39: 2357 cars(33.6% increase on Average cars this hour)
+TRAFFIC LIGHT 30: 2313 cars(31.1% increase on Average cars this hour)
+TRAFFIC LIGHT 87: 2202 cars(24.8% increase on Average cars this hour)
+TRAFFIC LIGHT 37: 2197 cars(24.5% increase on Average cars this hour)
+TRAFFIC LIGHT 73: 2170 cars(23% increase on Average cars this hour)
+
+
+C:\Users\Cameron\Desktop\OneDrive\UNI\2019-Sem1\ProgrammingParadigms\GitHub\Module2\Task1-3D\Debug\Task1-3D.exe (process 19404) exited with code 0.
+Press any key to close this window . . .
