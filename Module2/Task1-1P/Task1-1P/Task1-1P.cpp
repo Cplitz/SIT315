@@ -6,9 +6,9 @@
 #include <time.h>
 #include <thread>
 
-#define MATRIX_SIZE 100		// N * N size of matrix
-#define NUM_THREADS 4		// Number of threads to use to solve the multiplication
-#define NUM_EXECUTIONS 1000	// Number of times to execute the problem (to find suitable averages)
+#define MATRIX_SIZE 225		// N * N size of matrix
+#define NUM_THREADS 10		// Number of threads to use to solve the multiplication
+#define NUM_EXECUTIONS 100	// Number of times to execute the problem (to find suitable averages)
 
 /**
  * Function which calculates a portion of a result matrix's rows from a matrix multiplication
@@ -22,7 +22,6 @@
 void threaded_matrix_multiplication(int C[MATRIX_SIZE][MATRIX_SIZE], int A[MATRIX_SIZE][MATRIX_SIZE], int B[MATRIX_SIZE][MATRIX_SIZE], int iStart, int iEnd) {
 	for (int i = iStart; i < iEnd; i++) {
 		for (int j = 0; j < MATRIX_SIZE; j++) {
-			C[i][j] = 0;
 			for (int k = 0; k < MATRIX_SIZE; k++) {
 				C[i][j] += A[i][k] * B[k][j];
 			}
@@ -55,13 +54,12 @@ int main() {
 		 ****************************/
 
 		// Initialise C matrix for multiplication of A and B
-		int C[MATRIX_SIZE][MATRIX_SIZE];
+		int C[MATRIX_SIZE][MATRIX_SIZE] = { 0 };
 
 		// Perform multiplication 
 		int exec_start = clock();
 		for (int i = 0; i < MATRIX_SIZE; i++) {
 			for (int j = 0; j < MATRIX_SIZE; j++) {
-				C[i][j] = 0;
 				for (int k = 0; k < MATRIX_SIZE; k++) {
 					C[i][j] += A[i][k] * B[k][j];
 				}
@@ -78,7 +76,7 @@ int main() {
 
 		// Initialise array of threads and solution array D
 		std::thread threads[NUM_THREADS];
-		int D[MATRIX_SIZE][MATRIX_SIZE];
+		int D[MATRIX_SIZE][MATRIX_SIZE] = { 0 };
 
 		// Calculate the number of rows each thread will work on
 		int num_rows = MATRIX_SIZE / NUM_THREADS, iStart, iEnd;
@@ -111,15 +109,15 @@ int main() {
 		 *****************************/
 
 		// Initialise result matrix E
-		int E[MATRIX_SIZE][MATRIX_SIZE];
+		int E[MATRIX_SIZE][MATRIX_SIZE] = { 0 };
 
 		// Preface for loop with #pragma omp parallel for directive to start parallel execution
+		int i, j, k;
 		exec_start = clock();
-		#pragma omp parallel for
-		for (int i = 0; i < MATRIX_SIZE; i++) {
-			for (int j = 0; j < MATRIX_SIZE; j++) {
-				E[i][j] = 0;
-				for (int k = 0; k < MATRIX_SIZE; k++) {
+		#pragma omp parallel for shared(A, B, E) private(i, j, k) collapse(3) num_threads(NUM_THREADS)
+		for (i = 0; i < MATRIX_SIZE; i++) {
+			for (j = 0; j < MATRIX_SIZE; j++) {
+				for (k = 0; k < MATRIX_SIZE; k++) {
 					E[i][j] += A[i][k] * B[k][j];
 				}
 			}
