@@ -6,7 +6,7 @@
 #include <time.h>
 #include <mpi.h>
 
-#define MAX 200
+#define MAX 4
 
 cl_device_id device_id;
 cl_context context;
