@@ -12,7 +12,7 @@
 
 /** MAIN **/
 int main(int argc, char *argv[]) {
-	int num_bodies, num_steps;
+	int num_bodies = 0, num_steps;
 	// Get simulation choice
 	int simulation_choice;
 	std::cout
